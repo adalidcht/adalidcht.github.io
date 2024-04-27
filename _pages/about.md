@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a Bionic Engineer
+subtitle: Bionic Engineer
+
 
 profile:
   align: right
