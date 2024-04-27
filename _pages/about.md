@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bionic Engineer
+subtitle: Bionic Engineer | [Bento](https://bento.me/adalidcht)
 
 
 profile:
@@ -10,8 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>México City,</p>
-    <p>Mexico</p>
+    <p>Mexico City,</p>
+    <p>México</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
