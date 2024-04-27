@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bionic Engineer | [Bento](https://bento.me/adalidcht)
-
+subtitle: Bionic Engineer  |  <a href='https://bento.me/adalidcht'>Bento</a>.
 
 profile:
   align: right
