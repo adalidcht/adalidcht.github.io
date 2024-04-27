@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a [Linkedin](https://www.linkedin.com/in/adalidchavez/) [GitHub](https://github.com/adalidcht)
+subtitle: <a Bionic Engineer
 
 profile:
   align: right
