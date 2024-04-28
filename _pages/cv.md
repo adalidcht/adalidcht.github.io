@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: adalidch_chavez.pdf
+cv_pdf: adalid_chavez_01.pdf
 description: 
 toc:
   sidebar: left
