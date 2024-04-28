@@ -96,14 +96,19 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "A1",
-      "icon": ""
+      "language": "Spanish",
+      "fluency": "Native",
+      "icon": "🇲🇽"
     },
     {
       "language": "English",
       "fluency": "B2",
-      "icon": ""
+      "icon": "🇺🇸"
+    },
+    {
+      "language": "German",
+      "fluency": "A1",
+      "icon": "🇩🇪"
     }
   ],
   "interests": [
